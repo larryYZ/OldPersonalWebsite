@@ -29,7 +29,7 @@ function Nav(button){
 
       switch(button){
          case "home":
-            display = "From retail banking to the trading floor, I have worked in various positions including the highly competitive front office jobs in the financial services industry. <br /> Through simple coding, I transformed one of the offices I worked for through automation. <br /> Once witnessed how the industry might be transformed by tech, I knew where my next journey would begin.";
+            display = "From retail brokerage to the trading floor, I have worked in various positions including the highly competitive front office jobs in the financial services industry. <br /> Through simple coding, I transformed one of the offices I worked for through automation. <br /> Once witnessed how the industry might be transformed by tech, I knew where my next journey would begin.";
             fig1 = "I have held a range of positions on Bay Street";
             fig2 = "My seat on the trading floor";
             fig3 = "I am looking to start a new career in tech";
