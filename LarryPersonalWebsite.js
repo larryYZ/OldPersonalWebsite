@@ -38,11 +38,11 @@ function Nav(button){
             display = "I carried out my own research on lichens and worked in a developmental biology lab as a research student at University of Toronto. The experience taught me how to approach a problem with unknown solutions, and how to critically analyze nature and the world. I decided to leave the ivory tower because I wanted to be closer to the actions in this fast-evolving world. At Smith school of business at Queen's University, I studied theories in the financial market systmatically and reflected upon what I have learned in the industry in the past years. The program also helped me understand more about different business models. I believe a good software engineer should have a good understanding of the business logic instead of solely depending on product managers. <br /> Now I am doing my second degree in Computer Science at Lassond school of engineering at York University.";
             fig1 = "I completed my undergrad study at University of Toronto majoring in Molecular Biology and Economics";
             fig2 = "I earned my Master of Finance degree at Smith School of Business at Queen's University";
-            fig3 = "I am doing my second degree in Computer Science at Lassonde School of Engineering at York University";
+            fig3 = "I am working towards my second degree in Computer Science at Lassonde School of Engineering at York University";
             break;
          case "projects":
             display = "<p></p>";
-            fig1 = "Fancy website created through API";
+            fig1 = "Fancy website created through React";
             fig2 = "Web-based stock trading game"
             fig3 = "Android app"
 
